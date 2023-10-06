@@ -11,9 +11,8 @@ Skills: ● User research ● user flows ● wireframing ● prototyping ● Mob
 - ⚡ Fun fact: Love watching the sky, Love listen to music
 - 
 - ## My project
-- https://modupelaosun.notion.site/modupelaosun/Modupe-Laosun-Portfolio-5beadf9a2087422685b6e416c48e686f?p=0cc1d01299d44dddab6dfe467251885e&pm=c
-
-
+-    [![Notion Portfolio]([URL_OF_YOUR_IMAGE](https://github.com/modupelaosun/Case-study-betaslide/blob/main/preview%20and%20landing%20picture%20betaslide.png?raw=true))]( https://modupelaosun.notion.site/modupelaosun/Modupe-Laosun-Portfolio-5beadf9a2087422685b6e416c48e686f?p=0cc1d01299d44dddab6dfe467251885e&pm=c)
+ 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ModupeLaosun)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/modupe-laosun/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://bit.ly/modupelaosunportfolio)  
 
 
