@@ -11,20 +11,21 @@ Skills: ● User research ● user flows ● wireframing ● prototyping ● Mob
 - ⚡ Fun fact: Love watching the sky, Love listen to music
 - 
 - ## My project
-- 
-- <div style="display: flex; justify-content: space-around;">
+  
+<div align="center">
   <a href="https://modupelaosun.notion.site/modupelaosun/Modupe-Laosun-Portfolio-5beadf9a2087422685b6e416c48e686f?p=0cc1d01299d44dddab6dfe467251885e&pm=c">
-    <img src="https://github.com/modupelaosun/Case-study-betaslide/blob/main/preview%20and%20landing%20picture%20betaslide.png?raw=true" width="30%" alt="Notion Portfolio">
+    <img src="https://github.com/modupelaosun/Case-study-betaslide/blob/main/preview%20and%20landing%20picture%20betaslide.png?raw=true" width="30%" alt="Notion Portfolio 1">
   </a>
   
-  <a href="URL_TO_SECOND_IMAGE">
-    <img src="URL_TO_SECOND_IMAGE" width="30%" alt="Second Image">
+  <a href="https://modupelaosun.notion.site/Saturn-Airline-b9357f5df7ab4d01802036955724a313?pvs=25">
+    <img src="https://github.com/modupelaosun/Saturn-case-study/blob/main/Frame%2034020.png?raw=true" width="30%" alt="Notion Portfolio 2">
   </a>
   
-  <a href="URL_TO_THIRD_IMAGE">
-    <img src="URL_TO_THIRD_IMAGE" width="30%" alt="Third Image">
+  <a href="https://modupelaosun.notion.site/Mitask-Application-fe1a1bf00d7d4db4be2c0e10f2ddf0bc?pvs=25">
+    <img src="https://github.com/modupelaosun/Mitask-case-study/blob/main/Frame%2033667.png?raw=true" width="30%" alt="Notion Portfolio 3">
   </a>
 </div>
+
 
 
  
