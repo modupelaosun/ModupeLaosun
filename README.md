@@ -1,5 +1,4 @@
-### 
-<!--### Hi there 👋, I'm Modupe Laosun
+### <!--### Hi there 👋, I'm Modupe Laosun
 #### I am a UIUX Designer
 ![I am a UIUX Designer](https://media.licdn.com/dms/image/D4D16AQHHAZrt7LbjAg/profile-displaybackgroundimage-shrink_350_1400/0/1686839106648?e=1701907200&v=beta&t=ir-Cjai-2eb0x42qidjcUH76NTjy2faSoGA3qyFujOQ)
 
