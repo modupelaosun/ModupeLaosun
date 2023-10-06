@@ -12,9 +12,19 @@ Skills: ● User research ● user flows ● wireframing ● prototyping ● Mob
 - 
 - ## My project
 - 
-- <a href="https://modupelaosun.notion.site/modupelaosun/Modupe-Laosun-Portfolio-5beadf9a2087422685b6e416c48e686f?p=0cc1d01299d44dddab6dfe467251885e&pm=c">
-  <img src="https://github.com/modupelaosun/Case-study-betaslide/blob/main/preview%20and%20landing%20picture%20betaslide.png?raw=true" width="30%" alt="Notion Portfolio">
-</a>
+- <div style="display: flex; justify-content: space-around;">
+  <a href="https://modupelaosun.notion.site/modupelaosun/Modupe-Laosun-Portfolio-5beadf9a2087422685b6e416c48e686f?p=0cc1d01299d44dddab6dfe467251885e&pm=c">
+    <img src="https://github.com/modupelaosun/Case-study-betaslide/blob/main/preview%20and%20landing%20picture%20betaslide.png?raw=true" width="30%" alt="Notion Portfolio">
+  </a>
+  
+  <a href="URL_TO_SECOND_IMAGE">
+    <img src="URL_TO_SECOND_IMAGE" width="30%" alt="Second Image">
+  </a>
+  
+  <a href="URL_TO_THIRD_IMAGE">
+    <img src="URL_TO_THIRD_IMAGE" width="30%" alt="Third Image">
+  </a>
+</div>
 
 
  
