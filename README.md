@@ -5,11 +5,13 @@
 I'm passionate about creating exceptional digital experiences. With a strong commitment to user-centered design principles, I'm on a mission to craft interfaces that are not just visually pleasing but also intuitive and impactful.
 
 Skills: ● User research ● user flows ● wireframing ● prototyping ● Mobile application ● Web design ● Responsive and Accessible Design. ● Figma, Miro ● User experience design ● Web hosting
-
 - 🌱 I’m currently learning Github 
 - 📫 How to reach me: laosunmodupe@gmail.com 
 - 😄 Pronouns: She/her 
-- ⚡ Fun fact: Love watching the sky, Love listen to music 
+- ⚡ Fun fact: Love watching the sky, Love listen to music
+- 
+- ## My project
+- https://modupelaosun.notion.site/modupelaosun/Modupe-Laosun-Portfolio-5beadf9a2087422685b6e416c48e686f?p=0cc1d01299d44dddab6dfe467251885e&pm=c
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ModupeLaosun)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/modupe-laosun/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://bit.ly/modupelaosunportfolio)  
