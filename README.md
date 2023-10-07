@@ -1,11 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Modupe Laosun</h1>
 <h3 align="center">I'm a User Experience Designer (UX/UI) My passion for creating exceptional user experiences drives me with a keen attention to detail and commitment to user-focused design.</h3>
-<img align = "right" alt= "cpding" width ="400" src=![image](https://github.com/modupelaosun/ModupeLaosun/assets/82838520/4313c1a7-a355-4c74-b8fb-a55d0fabaac4)
-
-
+<img align = "right" alt= "cpding" width ="200" src=https://github.com/modupelaosun/banner/blob/main/gif%20image.gif?raw=true
 - 📫 How to reach me **laosunmodupe@gmail.com**
-
 - ⚡ Fun fact **Love watching sky, Listen to music**
 
 <h3 align="left">Connect with me:</h3>
