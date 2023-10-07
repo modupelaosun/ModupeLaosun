@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Modupe Laosun</h1>
-<h3 align="center">I'm a User Experience Designer (UX/UI) My passion for creating exceptional user experiences drives me with a keen attention to detail and commitment to user-focused design.</h3>
+<h3 align="center">I’m a dedicated UI/UX designer with a passion for creating exceptional digital experiences. With a strong commitment to user-centered design principles, I'm on a mission to craft interfaces that are not just visually pleasing but also intuitive and impactful</h3>
 <img align = "right" alt= "cpding" width ="200" src=https://github.com/modupelaosun/banner/blob/main/gif%20image.gif?raw=true
 - 📫 How to reach me **laosunmodupe@gmail.com**
 - ⚡ Fun fact **Love watching sky, Listen to music**
