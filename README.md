@@ -1,15 +1,23 @@
-### <!--### Hi there 👋, I'm Modupe Laosun
-#### I am a UIUX Designer
-![I am a UIUX Designer](https://media.licdn.com/dms/image/D4D16AQHHAZrt7LbjAg/profile-displaybackgroundimage-shrink_350_1400/0/1686839106648?e=1701907200&v=beta&t=ir-Cjai-2eb0x42qidjcUH76NTjy2faSoGA3qyFujOQ)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+<h1 align="center">Hi 👋, I'm Modupe Laosun</h1>
+<h3 align="center">I'm a User Experience Designer (UX/UI) My passion for creating exceptional user experiences drives me with a keen attention to detail and commitment to user-focused design.</h3>
+<img align = "right" alt= "cpding" width ="400" src=![image](https://github.com/modupelaosun/ModupeLaosun/assets/82838520/4313c1a7-a355-4c74-b8fb-a55d0fabaac4)
 
-I'm passionate about creating exceptional digital experiences. With a strong commitment to user-centered design principles, I'm on a mission to craft interfaces that are not just visually pleasing but also intuitive and impactful.
 
-Skills: ● User research ● user flows ● wireframing ● prototyping ● Mobile application ● Web design ● Responsive and Accessible Design. ● Figma, Miro ● User experience design ● Web hosting
-- 🌱 I’m currently learning Github 
-- 📫 How to reach me: laosunmodupe@gmail.com 
-- 😄 Pronouns: She/her 
-- ⚡ Fun fact: Love watching the sky, Love listen to music
-- 
+- 📫 How to reach me **laosunmodupe@gmail.com**
+
+- ⚡ Fun fact **Love watching sky, Listen to music**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/modupelaosun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="modupelaosun" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/http://www.linkedin.com/in/modupe-laosun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/modupe-laosun" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> </p>
+
+
 - ## My project
   
 <div align="center">
@@ -30,19 +38,4 @@ Skills: ● User research ● user flows ● wireframing ● prototyping ● Mob
 
  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ModupeLaosun)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/modupe-laosun/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://bit.ly/modupelaosunportfolio)  
 
-
-**modupelaosun/ModupeLaosun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
