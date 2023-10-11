@@ -1,3 +1,4 @@
+![BANNER](https://github.com/modupelaosun/head/blob/main/Linkedin%20Banner.png?raw=true)
 <h1 align="center">Hi 👋, I'm Modupe Laosun</h1>
 <h3 align="center">I’m a dedicated UI/UX designer with a passion for creating exceptional digital experiences. With a strong commitment to user-centered design principles, I'm on a mission to craft interfaces that are not just visually pleasing but also intuitive and impactful</h3>
 <img align = "right" alt= "cpding" width ="200" src=https://github.com/modupelaosun/banner/blob/main/gif%20image.gif?raw=true
