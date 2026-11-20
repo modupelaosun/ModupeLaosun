@@ -1,7 +1,7 @@
 
 ![MasterHead](https://github.com/modupelaosun/head/blob/main/Linkedin%20Banner.png?raw=true)
 <h1 align="center">Hi 👋, I'm Modupe Laosun</h1>
-<h3 align="center">Design user flows, wireframes, responsive interfaces and interactive prototypes in FigmaDesign and build business websites in WordPress and Elementor, taking projects from problem to launchUse AI tools (Claude, Cursor) to add custom functionality and work around platform limits, checking all output before it shipsFocus on usability, clear information architecture and practical business needs</h3>
+<h3 align="center">Product Designer and Web Developer with 4+ years of experience in UX/UI design, usability testing and website development. I test digital products for clarity and errors, write clear feedback and documentation, and follow detailed guidelines closely. I use AI tools like Claude, Cursor, Lovable and V0 every day, so I know how to write precise prompts and spot when an AI answer is wrong, vague or off-brief. Strongest in evaluating AI output for design, UX, web and code work. Reliable, detail-focused and comfortable working remotely.</h3>
 <img align = "right" alt= "cpding" width ="200" src=https://github.com/modupelaosun/banner/blob/main/gif%20image.gif?raw=true
 
 - 📫 How to reach me **laosunmodupe@gmail.com**
